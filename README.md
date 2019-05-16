@@ -22,4 +22,4 @@ Applications of Si7021 include:
 - automotive climate controls. 
 - micro-environments/data center monitoring.
 
-Hardware Interfacing-SI7021-with-esp32-
+Hardware needed Interfacing-SI7021-with-esp32-
