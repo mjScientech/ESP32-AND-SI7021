@@ -1,2 +1,2 @@
-# Interfacing-SHT30-with-esp8266-
-Displaying Temperature Data on Ubidots  using esp8266 and SHT30.
+# Interfacing-SI7021-with-esp32-
+Displaying Temperature Data on Ubidots  using  ESP32-AND-SI7021.
