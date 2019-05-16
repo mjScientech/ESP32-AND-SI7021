@@ -24,3 +24,4 @@ Applications of Si7021 include:
 
 Hardware needed Interfacing-SI7021-with-esp32.
 - [ESP-32](https://store.ncd.io/product/esp32-iot-wifi-ble-module-with-integrated-usb/)
+-[SI7021](https://store.ncd.io/product/si7021-humidity-and-temperature-sensor-%C2%B13rh-%C2%B1-4c-i2c-mini-module/)
