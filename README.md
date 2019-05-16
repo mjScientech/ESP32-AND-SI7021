@@ -13,11 +13,11 @@ an I2C Interface.
 The Si7021 offers an accurate, low-power, factory-calibrated digital solution ideal for measuring humidity, dew-point, and temperature, in a number of industrial and consumer applications.
 
 Applications of Si7021 include:
-(1)respiratory therapy.
-(2)defogging.
-(3)mobile phones and tablets.
-(4)white goods.
-(5)indoor weather stations.
-(6)asset/goods tracking.
-(7)automotive climate controls. 
-(8)micro-environments/data center monitoring.
+- (1)respiratory therapy.
+- (2)defogging.
+- (3)mobile phones and tablets.
+- (4)white goods.
+- (5)indoor weather stations.
+- (6)asset/goods tracking.
+- (7)automotive climate controls. 
+- (8)micro-environments/data center monitoring.
