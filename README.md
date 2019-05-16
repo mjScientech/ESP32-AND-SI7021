@@ -22,6 +22,9 @@ Applications of Si7021 include:
 - automotive climate controls. 
 - micro-environments/data center monitoring.
 
+![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/ESP32_1.png)
+# ESP-32
+
 Hardware needed Interfacing-SI7021-with-esp32.
 - [ESP-32](https://store.ncd.io/product/esp32-iot-wifi-ble-module-with-integrated-usb/)
 - [SI7021](https://store.ncd.io/product/si7021-humidity-and-temperature-sensor-%C2%B13rh-%C2%B1-4c-i2c-mini-module/)
