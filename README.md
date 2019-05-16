@@ -21,3 +21,4 @@ Applications of Si7021 include:
 - asset/goods tracking.
 - automotive climate controls. 
 - micro-environments/data center monitoring.
+Hardware Interfacing-SI7021-with-esp32-
