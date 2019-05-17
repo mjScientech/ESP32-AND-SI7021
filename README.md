@@ -44,8 +44,10 @@ We manufactured our own version of the ESP32 to fit into NCD IoT devices, offeri
 - Create the account on [Ubidot](https://ubidots.com/).
 - Go to my profile and note down the token key which is a unique key for every account and paste it to your ESP32 code before uploading.
 - Add a new device to your ubidot dashboard name esp32.
-- Inside device create new variable name sensor in which your temperature reading will be shown.
+![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/Device.JPG)
 
+- Inside device create new variable name sensor in which your temperature reading will be shown.
+![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/variable.JPG)
 
 Hardware needed Interfacing-SI7021-with-esp32:
 - [ESP-32](https://store.ncd.io/product/esp32-iot-wifi-ble-module-with-integrated-usb/)
