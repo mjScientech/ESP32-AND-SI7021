@@ -50,7 +50,13 @@ Software Used:
 ## Connection of ESP-32 with shield
 ![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/Esp32%20Connection.png)
 
-## Setup the all the connection properly and upload the [UbidotSI7021](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/UbidotSI7021.ino) code  to ESP32 using Arduino IDE.
+##  Uploading the code  to ESP32 using Arduino IDE:
+- Download and install the PubSubClient Library.
+- You must assign your unique Ubidots TOKEN, MQTTCLIENTNAME, SSID (WiFi Name) and Password of the available network.
+- Compile and upload the  [UbidotSI7021](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/UbidotSI7021.ino) code.
+- To verify the connectivity of the device and the data sent, open the serial monitor.If no response is seen, try unplugging your ESP32 and then plugging it again. Make sure the baud rate of the Serial monitor is set to the same one specified in your code 115200.
+
+
 
 ## Making the Ubidot work:
 - Create the account on [Ubidot](https://ubidots.com/).
