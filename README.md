@@ -68,4 +68,4 @@ Software Used:
 ![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/variable.JPG)
 
 # OUTPUT
-![alt tag]
+![alt tag](https://github.com/mjScientech/ESP32-AND-SI7021/blob/master/tempoutput.JPG)
